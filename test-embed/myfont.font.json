@@ -8,5 +8,6 @@
   "types": ["eot", "woff", "woff2", "ttf", "svg"],
   "fixedWidth": true,
   "embed": true,
+  "scssFile": true,
   "fileName": "app.[fontname].[chunkhash].[ext]"
 }

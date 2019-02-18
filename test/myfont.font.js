@@ -7,5 +7,6 @@ module.exports = {
   'baseSelector': '.myfonticon',
   'types': ['eot', 'woff', 'woff2', 'ttf', 'svg'],
   'fixedWidth': true,
+  'scssFile': true,
   'fileName': 'app.[fontname].[chunkhash].[ext]'
 };
